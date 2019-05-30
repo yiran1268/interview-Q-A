@@ -8,7 +8,7 @@
 
 ## 面试流程
 
-![面试流程](./docs/interview.png)
+![面试流程](./docs/wechat.png)
 
 ## 微信群
 
